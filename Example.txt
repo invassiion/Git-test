@@ -1,5 +1,8 @@
 example
-Внесли изменения из интерфеса Github
+Г‚Г­ГҐГ±Г«ГЁ ГЁГ§Г¬ГҐГ­ГҐГ­ГЁГї ГЁГ§ ГЁГ­ГІГҐГ°ГґГҐГ±Г  Github
 training stash
 Changes file on branch develop
-мы решаем таск 1
+ develop
+Changes file on branch develop 2
+
+fetch - training
