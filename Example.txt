@@ -1,3 +1,6 @@
 example
 Внесли изменения из интерфеса Github
 training stash
+Changes file on branch develop
+Changes file on branch develop 2
+Changes file on branch develop 4
