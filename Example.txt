@@ -1,3 +1,4 @@
 example
 Внесли изменения из интерфеса Github
 training stash
+Changes file on branch develop
