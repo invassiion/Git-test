@@ -5,3 +5,4 @@ Changes file on branch develop
  develop
 Changes file on branch develop 2
 
+fetch - training
